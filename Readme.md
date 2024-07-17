@@ -94,6 +94,7 @@ http://Public IP:9200/_plugin/head/      Elastic search head
 http://Public IP:5601                    Kibana page
 http://Public IP:9200/_plugins/bigdesk/  ES Dashboard
 
+![image](https://github.com/user-attachments/assets/eaa5ce0f-ed14-46b2-9a5f-d4f4f7e04e88)
 
 
 
